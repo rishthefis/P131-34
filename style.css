@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(135deg, #d51fdf 0%, #07f601 100%);
+    font-variant: small-caps;
+    color: whitesmoke;
+}
+
+a{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 35px;
+    background-color: ivory;
+    margin: 7px;
+    padding: 7px;
+    color: lawngreen;
+}
